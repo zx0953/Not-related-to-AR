@@ -12,9 +12,11 @@ public class MenuHandle : MonoBehaviour {
         BtnStart.onClick.AddListener(BtnStartOnClick);
         BtnExit.onClick.AddListener(BtnExitOnClick);
     }
-	
-	// Update is called once per frame
-	void Update () {
+
+    
+
+    // Update is called once per frame
+    void Update () {
 		
 	}
     void BtnStartOnClick()

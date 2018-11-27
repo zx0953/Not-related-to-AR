@@ -15,6 +15,9 @@ public class GameManager : MonoBehaviour
     private List<GameObject> ModelList = new List<GameObject>();
     private int CurrentPosition = 0; //目前model的位置
 
+    
+
+
     void Start()
     {
         //scan UI 
