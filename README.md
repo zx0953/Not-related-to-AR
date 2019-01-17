@@ -26,11 +26,11 @@ Julius Dreisig & Zeus X Crona - Invisible
 • http://soundcloud.com/zeusandcrona  
 • http://facebook.com/zeusandcrona/  
 
-Nyan Cat - Genre Hopping
-WoodTick-Author
-https://www.newgrounds.com/portal/view/606000
-
-AR 使用Vuforia
+Nyan Cat - Genre Hopping  
+WoodTick-Author  
+https://www.newgrounds.com/portal/view/606000  
+  
+AR 使用Vuforia  
   
 貓貓圖片來源  
 https://flic.kr/p/Mx2vdi  
